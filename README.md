@@ -1,4 +1,4 @@
-Adaptive Resolution Demo and Sample shows how to use adaptive resolution to dynamically adjust resolution based on GPU load. This can be used to automatically increase quality (by increasing resolution) when GPU load is low. It can also help maintain stable FPS (by lowering resolution) when GPU load is high.
+The PICO Adaptive Resolution Sample shows how to use adaptive resolution to dynamically adjust resolution based on GPU load. This can be used to automatically increase quality (by increasing resolution) when GPU load is low. It can also help maintain stable FPS (by lowering resolution) when GPU load is high.
 
 ## Scenes
 1. Demo: Show Sci-fi game style scenes with rooms of different pixel complexity. Adaptive resolution automatically adjusts resolution based on GPU load of current view direction.
@@ -31,4 +31,5 @@ Adaptive Resolution Demo and Sample shows how to use adaptive resolution to dyna
 - Multiview rendering
 - Adaptive Resolution
 
-
+## Documentation
+For complete details, see the [documentation page](https://developer.picoxr.com/document/unity/adaptive-resolution-demo/) for this sample project on the PICO developer website.
