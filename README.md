@@ -1,3 +1,5 @@
+![adaptive-resolution-sample-poster-16-9-complex-scene-1215](https://github.com/user-attachments/assets/28a6eb8a-4200-45b0-bbad-67afd4cd1e99)
+
 The PICO Adaptive Resolution Sample shows how to use adaptive resolution to dynamically adjust resolution based on GPU load. This can be used to automatically increase quality (by increasing resolution) when GPU load is low. It can also help maintain stable FPS (by lowering resolution) when GPU load is high.
 
 ## Scenes
